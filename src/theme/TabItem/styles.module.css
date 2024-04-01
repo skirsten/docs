@@ -5,3 +5,7 @@
 .children {
   width: min-content;
 }
+
+.codeChildren {
+  width: max-content;
+}
